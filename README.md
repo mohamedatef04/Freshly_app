@@ -64,7 +64,7 @@
 
 2. Cd Over
 ```
-   cd freshlu_app
+   cd freshly_app
 ```
 
 3. Run Pub
